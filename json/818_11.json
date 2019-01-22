@@ -1,0 +1,344 @@
+{
+    "MoveUp": {
+        "duration": 26.498000000000005,
+        "start_time": 34.708,
+        "fixations": {
+            "RHand": [
+                {
+                    "duration": 2.7479999999999976,
+                    "start_time": 34.708,
+                    "ratio": 0.10370594007094865
+                },
+                {
+                    "duration": 1.0,
+                    "start_time": 41.456,
+                    "ratio": 0.037738697260170574
+                },
+                {
+                    "duration": 0.9920000000000044,
+                    "start_time": 43.964,
+                    "ratio": 0.03743678768208938
+                },
+                {
+                    "duration": 2.0,
+                    "start_time": 45.706,
+                    "ratio": 0.07547739452034115
+                },
+                {
+                    "duration": 3.25,
+                    "start_time": 48.956,
+                    "ratio": 0.12265076609555436
+                },
+                {
+                    "duration": 0.5,
+                    "start_time": 59.456,
+                    "ratio": 0.018869348630085287
+                }
+            ],
+            "LHand": [
+                {
+                    "duration": 0.75,
+                    "start_time": 60.456,
+                    "ratio": 0.02830402294512793
+                }
+            ],
+            "Head": [
+                {
+                    "duration": 2.500000000000007,
+                    "start_time": 38.955999999999996,
+                    "ratio": 0.0943467431504267
+                }
+            ],
+            "Object": [
+                {
+                    "duration": 0.25799999999999557,
+                    "start_time": 43.706,
+                    "ratio": 0.00973658389312384
+                },
+                {
+                    "duration": 0.5,
+                    "start_time": 59.956,
+                    "ratio": 0.018869348630085287
+                }
+            ],
+            "VisualServoing": [
+                {
+                    "duration": 0.75,
+                    "start_time": 44.956,
+                    "ratio": 0.02830402294512793
+                },
+                {
+                    "duration": 7.25,
+                    "start_time": 52.206,
+                    "ratio": 0.27360555513623663
+                }
+            ]
+        }
+    },
+    "MoveDown": {
+        "duration": 24.75,
+        "start_time": 61.206,
+        "fixations": {
+            "LHand": [
+                {
+                    "duration": 0.49099999999999966,
+                    "start_time": 85.465,
+                    "ratio": 0.019838383838383825
+                }
+            ],
+            "RHand": [
+                {
+                    "duration": 1.0,
+                    "start_time": 61.456,
+                    "ratio": 0.04040404040404041
+                },
+                {
+                    "duration": 1.0,
+                    "start_time": 63.456,
+                    "ratio": 0.04040404040404041
+                },
+                {
+                    "duration": 0.75,
+                    "start_time": 64.956,
+                    "ratio": 0.030303030303030304
+                },
+                {
+                    "duration": 0.75,
+                    "start_time": 67.456,
+                    "ratio": 0.030303030303030304
+                },
+                {
+                    "duration": 1.5,
+                    "start_time": 69.206,
+                    "ratio": 0.06060606060606061
+                },
+                {
+                    "duration": 1.5090000000000003,
+                    "start_time": 71.206,
+                    "ratio": 0.060969696969696986
+                },
+                {
+                    "duration": 3.25,
+                    "start_time": 73.206,
+                    "ratio": 0.13131313131313133
+                },
+                {
+                    "duration": 1.0,
+                    "start_time": 77.456,
+                    "ratio": 0.04040404040404041
+                },
+                {
+                    "duration": 1.5,
+                    "start_time": 79.206,
+                    "ratio": 0.06060606060606061
+                },
+                {
+                    "duration": 1.5,
+                    "start_time": 81.456,
+                    "ratio": 0.06060606060606061
+                },
+                {
+                    "duration": 0.75,
+                    "start_time": 83.956,
+                    "ratio": 0.030303030303030304
+                }
+            ],
+            "VisualServoing": [
+                {
+                    "duration": 0.5,
+                    "start_time": 64.456,
+                    "ratio": 0.020202020202020204
+                },
+                {
+                    "duration": 1.0,
+                    "start_time": 66.456,
+                    "ratio": 0.04040404040404041
+                }
+            ],
+            "Object": [
+                {
+                    "duration": 0.7590000000000003,
+                    "start_time": 84.706,
+                    "ratio": 0.03066666666666668
+                }
+            ]
+        }
+    },
+    "Move": {
+        "duration": 12.5,
+        "start_time": 85.956,
+        "fixations": {
+            "LHand": [
+                {
+                    "duration": 0.75,
+                    "start_time": 85.956,
+                    "ratio": 0.06
+                },
+                {
+                    "duration": 1.5,
+                    "start_time": 88.956,
+                    "ratio": 0.12
+                },
+                {
+                    "duration": 1.0,
+                    "start_time": 93.456,
+                    "ratio": 0.08
+                },
+                {
+                    "duration": 1.5,
+                    "start_time": 95.206,
+                    "ratio": 0.12
+                }
+            ],
+            "Direction": [
+                {
+                    "duration": 2.25,
+                    "start_time": 86.706,
+                    "ratio": 0.18
+                },
+                {
+                    "duration": 1.25,
+                    "start_time": 90.956,
+                    "ratio": 0.1
+                }
+            ],
+            "RHand": [
+                {
+                    "duration": 1.25,
+                    "start_time": 97.206,
+                    "ratio": 0.1
+                }
+            ],
+            "Object": [
+                {
+                    "duration": 0.25,
+                    "start_time": 93.206,
+                    "ratio": 0.02
+                },
+                {
+                    "duration": 0.5,
+                    "start_time": 96.706,
+                    "ratio": 0.04
+                }
+            ]
+        }
+    },
+    "Regrasp": {
+        "duration": 23.5,
+        "start_time": 98.456,
+        "fixations": {
+            "RHand": [
+                {
+                    "duration": 1.0079999999999956,
+                    "start_time": 98.456,
+                    "ratio": 0.042893617021276406
+                },
+                {
+                    "duration": 0.5,
+                    "start_time": 103.706,
+                    "ratio": 0.02127659574468085
+                },
+                {
+                    "duration": 0.75,
+                    "start_time": 110.706,
+                    "ratio": 0.031914893617021274
+                },
+                {
+                    "duration": 0.25,
+                    "start_time": 113.456,
+                    "ratio": 0.010638297872340425
+                },
+                {
+                    "duration": 1.25,
+                    "start_time": 113.956,
+                    "ratio": 0.05319148936170213
+                },
+                {
+                    "duration": 0.7579999999999956,
+                    "start_time": 116.206,
+                    "ratio": 0.03225531914893598
+                },
+                {
+                    "duration": 0.5,
+                    "start_time": 120.706,
+                    "ratio": 0.02127659574468085
+                }
+            ],
+            "Object": [
+                {
+                    "duration": 0.9920000000000044,
+                    "start_time": 99.464,
+                    "ratio": 0.042212765957446996
+                },
+                {
+                    "duration": 0.75,
+                    "start_time": 111.456,
+                    "ratio": 0.031914893617021274
+                }
+            ],
+            "LHand": [
+                {
+                    "duration": 0.75,
+                    "start_time": 121.206,
+                    "ratio": 0.031914893617021274
+                }
+            ],
+            "Direction": [
+                {
+                    "duration": 0.75,
+                    "start_time": 112.206,
+                    "ratio": 0.031914893617021274
+                },
+                {
+                    "duration": 1.0,
+                    "start_time": 115.206,
+                    "ratio": 0.0425531914893617
+                },
+                {
+                    "duration": 3.7420000000000044,
+                    "start_time": 116.964,
+                    "ratio": 0.15923404255319168
+                }
+            ]
+        }
+    },
+    "Place": {
+        "duration": 13.500000000000014,
+        "start_time": 121.956,
+        "fixations": {
+            "LHand": [
+                {
+                    "duration": 2.25,
+                    "start_time": 121.956,
+                    "ratio": 0.1666666666666665
+                }
+            ],
+            "RHand": [
+                {
+                    "duration": 0.5,
+                    "start_time": 134.95600000000002,
+                    "ratio": 0.037037037037037
+                }
+            ],
+            "Object": [
+                {
+                    "duration": 1.2569999999999908,
+                    "start_time": 126.206,
+                    "ratio": 0.09311111111111033
+                },
+                {
+                    "duration": 0.7589999999999861,
+                    "start_time": 131.70600000000002,
+                    "ratio": 0.05622222222222113
+                }
+            ],
+            "Direction": [
+                {
+                    "duration": 3.7430000000000234,
+                    "start_time": 127.463,
+                    "ratio": 0.2772592592592607
+                }
+            ]
+        }
+    }
+}

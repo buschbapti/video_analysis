@@ -1,0 +1,89 @@
+{
+    "MoveUp": {
+        "duration": 5.25,
+        "start_time": 16.213,
+        "fixations": {
+            "VisualServoing": [
+                {
+                    "duration": 3.2159999999999975,
+                    "start_time": 16.35,
+                    "ratio": 0.6125714285714281
+                }
+            ],
+            "Object": [
+                {
+                    "duration": 1.897000000000002,
+                    "start_time": 19.566,
+                    "ratio": 0.36133333333333373
+                }
+            ]
+        }
+    },
+    "MoveDown": {
+        "duration": 4.25,
+        "start_time": 21.463,
+        "fixations": {
+            "Object": [
+                {
+                    "duration": 0.14700000000000202,
+                    "start_time": 25.566,
+                    "ratio": 0.03458823529411812
+                }
+            ],
+            "Direction": [
+                {
+                    "duration": 1.25,
+                    "start_time": 24.316,
+                    "ratio": 0.29411764705882354
+                }
+            ]
+        }
+    },
+    "Move": {
+        "duration": 7.75,
+        "start_time": 25.713,
+        "fixations": {
+            "Object": [
+                {
+                    "duration": 0.10299999999999798,
+                    "start_time": 25.713,
+                    "ratio": 0.0132903225806449
+                }
+            ],
+            "Direction": [
+                {
+                    "duration": 6.147000000000002,
+                    "start_time": 27.316,
+                    "ratio": 0.7931612903225809
+                }
+            ],
+            "VisualServoing": [
+                {
+                    "duration": 0.5,
+                    "start_time": 26.816,
+                    "ratio": 0.06451612903225806
+                }
+            ]
+        }
+    },
+    "Place": {
+        "duration": 5.5,
+        "start_time": 33.463,
+        "fixations": {
+            "Direction": [
+                {
+                    "duration": 0.39699999999999847,
+                    "start_time": 38.566,
+                    "ratio": 0.0721818181818179
+                }
+            ],
+            "Object": [
+                {
+                    "duration": 1.0,
+                    "start_time": 37.566,
+                    "ratio": 0.18181818181818182
+                }
+            ]
+        }
+    }
+}
