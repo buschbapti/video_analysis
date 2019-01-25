@@ -1,2 +1,6 @@
 /notebooks/.ipynb_checkpoints/*
 /data/*
+/build/*
+/dist/*
+/notebooks/preprocess/.ipynb_checkpoints/*
+/src/dataset_handler.egg-info/*
